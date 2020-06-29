@@ -178,7 +178,7 @@ These are my personal LeetCode solutions, which I have created while prepping fo
 <p>String</p>
 <ul>
 <li>
--[ ] Longest Substring Without Repeating Characters - <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">https://leetcode.com/problems/longest-substring-without-repeating-characters/</a>
+-[x] Longest Substring Without Repeating Characters - <a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/">https://leetcode.com/problems/longest-substring-without-repeating-characters/</a>
 </li>
 <li>
 -[ ] Longest Repeating Character Replacement - <a href="https://leetcode.com/problems/longest-repeating-character-replacement/">https://leetcode.com/problems/longest-repeating-character-replacement/</a>
@@ -196,7 +196,7 @@ These are my personal LeetCode solutions, which I have created while prepping fo
 -[ ] Valid Parentheses - <a href="https://leetcode.com/problems/valid-parentheses/">https://leetcode.com/problems/valid-parentheses/</a>
 </li>
 <li>
--[ ] Valid Palindrome - <a href="https://leetcode.com/problems/valid-palindrome/">https://leetcode.com/problems/valid-palindrome/</a>
+-[x] Valid Palindrome - <a href="https://leetcode.com/problems/valid-palindrome/">https://leetcode.com/problems/valid-palindrome/</a>
 </li>
 <li>
 -[ ] Longest Palindromic Substring - <a href="https://leetcode.com/problems/longest-palindromic-substring/">https://leetcode.com/problems/longest-palindromic-substring/</a>
@@ -212,13 +212,13 @@ These are my personal LeetCode solutions, which I have created while prepping fo
 <p>Tree</p>
 <ul>
 <li>
--[ ] Maximum Depth of Binary Tree - <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">https://leetcode.com/problems/maximum-depth-of-binary-tree/</a>
+-[x] Maximum Depth of Binary Tree - <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">https://leetcode.com/problems/maximum-depth-of-binary-tree/</a>
 </li>
 <li>
--[ ] Same Tree - <a href="https://leetcode.com/problems/same-tree/">https://leetcode.com/problems/same-tree/</a>
+-[x] Same Tree - <a href="https://leetcode.com/problems/same-tree/">https://leetcode.com/problems/same-tree/</a>
 </li>
 <li>
--[ ] Invert/Flip Binary Tree - <a href="https://leetcode.com/problems/invert-binary-tree/">https://leetcode.com/problems/invert-binary-tree/</a>
+-[x] Invert/Flip Binary Tree - <a href="https://leetcode.com/problems/invert-binary-tree/">https://leetcode.com/problems/invert-binary-tree/</a>
 </li>
 <li>
 -[ ] Binary Tree Maximum Path Sum - <a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/">https://leetcode.com/problems/binary-tree-maximum-path-sum/</a>

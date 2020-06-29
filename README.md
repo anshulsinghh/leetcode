@@ -71,7 +71,7 @@ These are my personal LeetCode solutions, which I have created while prepping fo
 -[ ] Word Break Problem - <a href="https://leetcode.com/problems/word-break/">https://leetcode.com/problems/word-break/</a>
 </li>
 <li>
--[ ] Combination Sum - <a href="https://leetcode.com/problems/combination-sum-iv/">https://leetcode.com/problems/combination-sum-iv/</a>
+-[x] Combination Sum - <a href="https://leetcode.com/problems/combination-sum-iv/">https://leetcode.com/problems/combination-sum-iv/</a>
 </li>
 <li>
 -[x] House Robber - <a href="https://leetcode.com/problems/house-robber/">https://leetcode.com/problems/house-robber/</a>

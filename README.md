@@ -3,66 +3,66 @@ These are my personal LeetCode solutions, which I have created while prepping fo
 
 <ul>
 <li>
--[ ] Two Sum - <a href="https://leetcode.com/problems/two-sum/">https://leetcode.com/problems/two-sum/</a>
+-[x] Two Sum - <a href="https://leetcode.com/problems/two-sum/">https://leetcode.com/problems/two-sum/</a>
 </li>
 <li>
--[ ] Best Time to Buy and Sell Stock - <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">https://leetcode.com/problems/best-time-to-buy-and-sell-stock/</a>
+-[x] Best Time to Buy and Sell Stock - <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">https://leetcode.com/problems/best-time-to-buy-and-sell-stock/</a>
 </li>
 <li>
--[ ] Contains Duplicate - <a href="https://leetcode.com/problems/contains-duplicate/">https://leetcode.com/problems/contains-duplicate/</a>
+-[x] Contains Duplicate - <a href="https://leetcode.com/problems/contains-duplicate/">https://leetcode.com/problems/contains-duplicate/</a>
 </li>
 <li>
--[ ] Product of Array Except Self - <a href="https://leetcode.com/problems/product-of-array-except-self/">https://leetcode.com/problems/product-of-array-except-self/</a>
+-[x] Product of Array Except Self - <a href="https://leetcode.com/problems/product-of-array-except-self/">https://leetcode.com/problems/product-of-array-except-self/</a>
 </li>
 <li>
--[ ] Maximum Subarray - <a href="https://leetcode.com/problems/maximum-subarray/">https://leetcode.com/problems/maximum-subarray/</a>
+-[x] Maximum Subarray - <a href="https://leetcode.com/problems/maximum-subarray/">https://leetcode.com/problems/maximum-subarray/</a>
 </li>
 <li>
--[ ] Maximum Product Subarray - <a href="https://leetcode.com/problems/maximum-product-subarray/">https://leetcode.com/problems/maximum-product-subarray/</a>
+-[x] Maximum Product Subarray - <a href="https://leetcode.com/problems/maximum-product-subarray/">https://leetcode.com/problems/maximum-product-subarray/</a>
 </li>
 <li>
--[ ] Find Minimum in Rotated Sorted Array - <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/</a>
+-[x] Find Minimum in Rotated Sorted Array - <a href="https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/">https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/</a>
 </li>
 <li>
--[ ] Search in Rotated Sorted Array - <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">https://leetcode.com/problems/search-in-rotated-sorted-array/</a>
+-[x] Search in Rotated Sorted Array - <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">https://leetcode.com/problems/search-in-rotated-sorted-array/</a>
 </li>
 <li>
--[ ] 3Sum - <a href="https://leetcode.com/problems/3sum/">https://leetcode.com/problems/3sum/</a>
+-[x] 3Sum - <a href="https://leetcode.com/problems/3sum/">https://leetcode.com/problems/3sum/</a>
 </li>
 <li>
--[ ] Container With Most Water - <a href="https://leetcode.com/problems/container-with-most-water/">https://leetcode.com/problems/container-with-most-water/</a>
+-[x] Container With Most Water - <a href="https://leetcode.com/problems/container-with-most-water/">https://leetcode.com/problems/container-with-most-water/</a>
 </li>
 </ul>
 <!-- TEASER_END --><hr>
 <p>Binary</p>
 <ul>
 <li>
--[ ] Sum of Two Integers - <a href="https://leetcode.com/problems/sum-of-two-integers/">https://leetcode.com/problems/sum-of-two-integers/</a>
+-[x] Sum of Two Integers - <a href="https://leetcode.com/problems/sum-of-two-integers/">https://leetcode.com/problems/sum-of-two-integers/</a>
 </li>
 <li>
--[ ] Number of 1 Bits - <a href="https://leetcode.com/problems/number-of-1-bits/">https://leetcode.com/problems/number-of-1-bits/</a>
+-[x] Number of 1 Bits - <a href="https://leetcode.com/problems/number-of-1-bits/">https://leetcode.com/problems/number-of-1-bits/</a>
 </li>
 <li>
--[ ] Counting Bits - <a href="https://leetcode.com/problems/counting-bits/">https://leetcode.com/problems/counting-bits/</a>
+-[x] Counting Bits - <a href="https://leetcode.com/problems/counting-bits/">https://leetcode.com/problems/counting-bits/</a>
 </li>
 <li>
--[ ] Missing Number - <a href="https://leetcode.com/problems/missing-number/">https://leetcode.com/problems/missing-number/</a>
+-[x] Missing Number - <a href="https://leetcode.com/problems/missing-number/">https://leetcode.com/problems/missing-number/</a>
 </li>
 <li>
--[ ] Reverse Bits - <a href="https://leetcode.com/problems/reverse-bits/">https://leetcode.com/problems/reverse-bits/</a>
+-[x] Reverse Bits - <a href="https://leetcode.com/problems/reverse-bits/">https://leetcode.com/problems/reverse-bits/</a>
 </li>
 </ul>
 <hr>
 <p>Dynamic Programming</p>
 <ul>
 <li>
--[ ] Climbing Stairs - <a href="https://leetcode.com/problems/climbing-stairs/">https://leetcode.com/problems/climbing-stairs/</a>
+-[x] Climbing Stairs - <a href="https://leetcode.com/problems/climbing-stairs/">https://leetcode.com/problems/climbing-stairs/</a>
 </li>
 <li>
--[ ] Coin Change - <a href="https://leetcode.com/problems/coin-change/">https://leetcode.com/problems/coin-change/</a>
+-[x] Coin Change - <a href="https://leetcode.com/problems/coin-change/">https://leetcode.com/problems/coin-change/</a>
 </li>
 <li>
--[ ] Longest Increasing Subsequence - <a href="https://leetcode.com/problems/longest-increasing-subsequence/">https://leetcode.com/problems/longest-increasing-subsequence/</a>
+-[x] Longest Increasing Subsequence - <a href="https://leetcode.com/problems/longest-increasing-subsequence/">https://leetcode.com/problems/longest-increasing-subsequence/</a>
 </li>
 <li>
 -[ ] Longest Common Subsequence - <a href="https://leetcode.com/problems/longest-increasing-subsequence/">https://leetcode.com/problems/longest-increasing-subsequence/</a>

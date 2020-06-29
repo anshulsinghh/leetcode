@@ -2,6 +2,7 @@
 These are my personal LeetCode solutions, which I have created while prepping for technical interviews.
 
 <ul>
+<p>Arrays</p>
 <li>
 -[x] Two Sum - <a href="https://leetcode.com/problems/two-sum/">https://leetcode.com/problems/two-sum/</a>
 </li>

@@ -6,7 +6,7 @@ These are my personal LeetCode solutions, which I have created while prepping fo
 <input type="checkbox"> Two Sum - <a href="https://leetcode.com/problems/two-sum/">https://leetcode.com/problems/two-sum/</a>
 </li>
 <li>
-<input type="checkbox"> Best Time to Buy and Sell Stock - <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">https://leetcode.com/problems/best-time-to-buy-and-sell-stock/</a>
+<input type="checkbox">test</input> Best Time to Buy and Sell Stock - <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">https://leetcode.com/problems/best-time-to-buy-and-sell-stock/</a>
 </li>
 <li>
 <input type="checkbox"> Contains Duplicate - <a href="https://leetcode.com/problems/contains-duplicate/">https://leetcode.com/problems/contains-duplicate/</a>

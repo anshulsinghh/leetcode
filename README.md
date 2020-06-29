@@ -3,7 +3,7 @@ These are my personal LeetCode solutions, which I have created while prepping fo
 
 <ul>
 <li>
--[] Two Sum - <a href="https://leetcode.com/problems/two-sum/">https://leetcode.com/problems/two-sum/</a>
+-[ ] Two Sum - <a href="https://leetcode.com/problems/two-sum/">https://leetcode.com/problems/two-sum/</a>
 </li>
 <li>
 <input type="checkbox"> Best Time to Buy and Sell Stock - <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">https://leetcode.com/problems/best-time-to-buy-and-sell-stock/</a>

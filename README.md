@@ -74,7 +74,7 @@ These are my personal LeetCode solutions, which I have created while prepping fo
 -[ ] Combination Sum - <a href="https://leetcode.com/problems/combination-sum-iv/">https://leetcode.com/problems/combination-sum-iv/</a>
 </li>
 <li>
--[ ] House Robber - <a href="https://leetcode.com/problems/house-robber/">https://leetcode.com/problems/house-robber/</a>
+-[x] House Robber - <a href="https://leetcode.com/problems/house-robber/">https://leetcode.com/problems/house-robber/</a>
 </li>
 <li>
 -[ ] House Robber II - <a href="https://leetcode.com/problems/house-robber-ii/">https://leetcode.com/problems/house-robber-ii/</a>

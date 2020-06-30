@@ -77,7 +77,7 @@ These are my personal LeetCode solutions, which I have created while prepping fo
 -[x] House Robber - <a href="https://leetcode.com/problems/house-robber/">https://leetcode.com/problems/house-robber/</a>
 </li>
 <li>
--[ ] House Robber II - <a href="https://leetcode.com/problems/house-robber-ii/">https://leetcode.com/problems/house-robber-ii/</a>
+-[x] House Robber II - <a href="https://leetcode.com/problems/house-robber-ii/">https://leetcode.com/problems/house-robber-ii/</a>
 </li>
 <li>
 -[ ] Decode Ways - <a href="https://leetcode.com/problems/decode-ways/">https://leetcode.com/problems/decode-ways/</a>

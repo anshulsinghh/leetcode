@@ -80,7 +80,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[x] House Robber II - <a href="https://leetcode.com/problems/house-robber-ii/">https://leetcode.com/problems/house-robber-ii/</a>
 </li>
 <li>
--[ ] Decode Ways - <a href="https://leetcode.com/problems/decode-ways/">https://leetcode.com/problems/decode-ways/</a>
+-[x] Decode Ways - <a href="https://leetcode.com/problems/decode-ways/">https://leetcode.com/problems/decode-ways/</a>
 </li>
 <li>
 -[ ] Unique Paths - <a href="https://leetcode.com/problems/unique-paths/">https://leetcode.com/problems/unique-paths/</a>

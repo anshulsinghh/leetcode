@@ -86,7 +86,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[ ] Unique Paths - <a href="https://leetcode.com/problems/unique-paths/">https://leetcode.com/problems/unique-paths/</a>
 </li>
 <li>
--[ ] Jump Game - <a href="https://leetcode.com/problems/jump-game/">https://leetcode.com/problems/jump-game/</a>
+-[x] Jump Game - <a href="https://leetcode.com/problems/jump-game/">https://leetcode.com/problems/jump-game/</a>
 </li>
 </ul>
 <hr>

@@ -93,7 +93,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 <p>Graph</p>
 <ul>
 <li>
--[ ] Clone Graph - <a href="https://leetcode.com/problems/clone-graph/">https://leetcode.com/problems/clone-graph/</a>
+-[x] Clone Graph - <a href="https://leetcode.com/problems/clone-graph/">https://leetcode.com/problems/clone-graph/</a>
 </li>
 <li>
 -[ ] Course Schedule - <a href="https://leetcode.com/problems/course-schedule/">https://leetcode.com/problems/course-schedule/</a>

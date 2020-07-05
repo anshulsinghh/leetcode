@@ -96,7 +96,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[x] Clone Graph - <a href="https://leetcode.com/problems/clone-graph/">https://leetcode.com/problems/clone-graph/</a>
 </li>
 <li>
--[ ] Course Schedule - <a href="https://leetcode.com/problems/course-schedule/">https://leetcode.com/problems/course-schedule/</a>
+-[x] Course Schedule - <a href="https://leetcode.com/problems/course-schedule/">https://leetcode.com/problems/course-schedule/</a>
 </li>
 <li>
 -[ ] Pacific Atlantic Water Flow - <a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">https://leetcode.com/problems/pacific-atlantic-water-flow/</a>

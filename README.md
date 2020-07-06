@@ -102,7 +102,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[ ] Pacific Atlantic Water Flow - <a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">https://leetcode.com/problems/pacific-atlantic-water-flow/</a>
 </li>
 <li>
--[ ] Number of Islands - <a href="https://leetcode.com/problems/number-of-islands/">https://leetcode.com/problems/number-of-islands/</a>
+-[x] Number of Islands - <a href="https://leetcode.com/problems/number-of-islands/">https://leetcode.com/problems/number-of-islands/</a>
 </li>
 <li>
 -[ ] Longest Consecutive Sequence - <a href="https://leetcode.com/problems/longest-consecutive-sequence/">https://leetcode.com/problems/longest-consecutive-sequence/</a>

@@ -99,7 +99,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[x] Course Schedule - <a href="https://leetcode.com/problems/course-schedule/">https://leetcode.com/problems/course-schedule/</a>
 </li>
 <li>
--[ ] Pacific Atlantic Water Flow - <a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">https://leetcode.com/problems/pacific-atlantic-water-flow/</a>
+-[x] Pacific Atlantic Water Flow - <a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">https://leetcode.com/problems/pacific-atlantic-water-flow/</a>
 </li>
 <li>
 -[x] Number of Islands - <a href="https://leetcode.com/problems/number-of-islands/">https://leetcode.com/problems/number-of-islands/</a>

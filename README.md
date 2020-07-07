@@ -83,7 +83,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[x] Decode Ways - <a href="https://leetcode.com/problems/decode-ways/">https://leetcode.com/problems/decode-ways/</a>
 </li>
 <li>
--[ ] Unique Paths - <a href="https://leetcode.com/problems/unique-paths/">https://leetcode.com/problems/unique-paths/</a>
+-[x] Unique Paths - <a href="https://leetcode.com/problems/unique-paths/">https://leetcode.com/problems/unique-paths/</a>
 </li>
 <li>
 -[x] Jump Game - <a href="https://leetcode.com/problems/jump-game/">https://leetcode.com/problems/jump-game/</a>

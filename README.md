@@ -236,7 +236,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[ ] Construct Binary Tree from Preorder and Inorder Traversal - <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/</a>
 </li>
 <li>
--[ ] Validate Binary Search Tree - <a href="https://leetcode.com/problems/validate-binary-search-tree/">https://leetcode.com/problems/validate-binary-search-tree/</a>
+-[x] Validate Binary Search Tree - <a href="https://leetcode.com/problems/validate-binary-search-tree/">https://leetcode.com/problems/validate-binary-search-tree/</a>
 </li>
 <li>
 -[ ] Kth Smallest Element in a BST - <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">https://leetcode.com/problems/kth-smallest-element-in-a-bst/</a>

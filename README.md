@@ -65,7 +65,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[x] Longest Increasing Subsequence - <a href="https://leetcode.com/problems/longest-increasing-subsequence/">https://leetcode.com/problems/longest-increasing-subsequence/</a>
 </li>
 <li>
--[ ] Longest Common Subsequence - <a href="https://leetcode.com/problems/longest-increasing-subsequence/">https://leetcode.com/problems/longest-increasing-subsequence/</a>
+-[x] Longest Common Subsequence - <a href="https://leetcode.com/problems/longest-increasing-subsequence/">https://leetcode.com/problems/longest-increasing-subsequence/</a>
 </li>
 <li>
 -[x] Word Break Problem - <a href="https://leetcode.com/problems/word-break/">https://leetcode.com/problems/word-break/</a>

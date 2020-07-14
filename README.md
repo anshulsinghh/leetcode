@@ -224,7 +224,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[ ] Binary Tree Maximum Path Sum - <a href="https://leetcode.com/problems/binary-tree-maximum-path-sum/">https://leetcode.com/problems/binary-tree-maximum-path-sum/</a>
 </li>
 <li>
--[ ] Binary Tree Level Order Traversal - <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">https://leetcode.com/problems/binary-tree-level-order-traversal/</a>
+-[x] Binary Tree Level Order Traversal - <a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">https://leetcode.com/problems/binary-tree-level-order-traversal/</a>
 </li>
 <li>
 -[ ] Serialize and Deserialize Binary Tree - <a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">https://leetcode.com/problems/serialize-and-deserialize-binary-tree/</a>

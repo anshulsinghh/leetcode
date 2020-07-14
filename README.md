@@ -239,7 +239,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[x] Validate Binary Search Tree - <a href="https://leetcode.com/problems/validate-binary-search-tree/">https://leetcode.com/problems/validate-binary-search-tree/</a>
 </li>
 <li>
--[ ] Kth Smallest Element in a BST - <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">https://leetcode.com/problems/kth-smallest-element-in-a-bst/</a>
+-[x] Kth Smallest Element in a BST - <a href="https://leetcode.com/problems/kth-smallest-element-in-a-bst/">https://leetcode.com/problems/kth-smallest-element-in-a-bst/</a>
 </li>
 <li>
 -[ ] Lowest Common Ancestor of BST - <a href="https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/">https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/</a>

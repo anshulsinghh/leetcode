@@ -230,7 +230,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[ ] Serialize and Deserialize Binary Tree - <a href="https://leetcode.com/problems/serialize-and-deserialize-binary-tree/">https://leetcode.com/problems/serialize-and-deserialize-binary-tree/</a>
 </li>
 <li>
--[ ] Subtree of Another Tree - <a href="https://leetcode.com/problems/subtree-of-another-tree/">https://leetcode.com/problems/subtree-of-another-tree/</a>
+-[x] Subtree of Another Tree - <a href="https://leetcode.com/problems/subtree-of-another-tree/">https://leetcode.com/problems/subtree-of-another-tree/</a>
 </li>
 <li>
 -[ ] Construct Binary Tree from Preorder and Inorder Traversal - <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/">https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/</a>

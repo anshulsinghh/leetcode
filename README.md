@@ -187,7 +187,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[ ] Minimum Window Substring - <a href="https://leetcode.com/problems/minimum-window-substring/">https://leetcode.com/problems/minimum-window-substring/</a>
 </li>
 <li>
--[ ] Valid Anagram - <a href="https://leetcode.com/problems/valid-anagram/">https://leetcode.com/problems/valid-anagram/</a>
+-[x] Valid Anagram - <a href="https://leetcode.com/problems/valid-anagram/">https://leetcode.com/problems/valid-anagram/</a>
 </li>
 <li>
 -[ ] Group Anagrams - <a href="https://leetcode.com/problems/group-anagrams/">https://leetcode.com/problems/group-anagrams/</a>

@@ -143,7 +143,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[ ] Reverse a Linked List - <a href="https://leetcode.com/problems/reverse-linked-list/">https://leetcode.com/problems/reverse-linked-list/</a>
 </li>
 <li>
--[ ] Detect Cycle in a Linked List - <a href="https://leetcode.com/problems/linked-list-cycle/">https://leetcode.com/problems/linked-list-cycle/</a>
+-[x] Detect Cycle in a Linked List - <a href="https://leetcode.com/problems/linked-list-cycle/">https://leetcode.com/problems/linked-list-cycle/</a>
 </li>
 <li>
 -[ ] Merge Two Sorted Lists - <a href="https://leetcode.com/problems/merge-two-sorted-lists/">https://leetcode.com/problems/merge-two-sorted-lists/</a>

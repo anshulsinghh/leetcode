@@ -1,4 +1,4 @@
-# Leetcode 
+# Leetcode  
 These are my personal LeetCode solutions, which I solved while prepping for technical interviews.
 <p>Arrays</p>
 <ul>

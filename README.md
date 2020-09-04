@@ -27,7 +27,7 @@ These are my personal LeetCode solutions, which I solved while prepping for tech
 -[x] Search in Rotated Sorted Array - <a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">https://leetcode.com/problems/search-in-rotated-sorted-array/</a>
 </li>
 <li>
--[x] 3Sum - <a href="https://leetcode.com/problems/3sum/">https://leetcode.com/problems/3sum/</a>
+-[x] 3Sum - <a href="https://leetcode.com/problems/3sum/">https://leetcode.com/problems/3sum/</a> 
 </li>
 <li>
 -[x] Container With Most Water - <a href="https://leetcode.com/problems/container-with-most-water/">https://leetcode.com/problems/container-with-most-water/</a>
